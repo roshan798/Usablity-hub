@@ -7,7 +7,5 @@ window.onload = function (){
         console.log(nav);
         nav.classList.toggle("hidden");
         toggleIMG.classList.toggle("hidden");
-
-
     })
 };
